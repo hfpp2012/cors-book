@@ -1,3 +1,5 @@
+### CORS进阶之设置请求头信息(三)
+
 #### 1. Access-Control-Allow-Headers
 
 在这一篇文章[CORS进阶之Preflight请求(二)](http://www.rails365.net/articles/cors-jin-jie-zhi-preflight-qing-qiu-er)中，有说过，哪些情况下会造成Preflight请求，其中之一，就是下面的情况：

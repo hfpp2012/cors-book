@@ -1,3 +1,5 @@
+### 从跨域到CORS(一)
+
 #### 1. 介绍
 
 跨域，可能很多前端开发者都会遇到过，也可能知道有jsonp，iframe之类的跨域方法。不过要说这些方法之前，先得来说说什么叫跨域，为什么要跨域。
@@ -138,4 +140,6 @@ Server:nginx/1.8.0
 
 下一节[CORS进阶之Preflight请求(二)](http://www.rails365.net/articles/cors-jin-jie-zhi-preflight-qing-qiu-er)会介绍CORS更高阶的内容，比如`Preflight请求`，`Access-Control-Allow-Methods`，`Access-Control-Allow-Headers`等。
 
-完结。
+本篇完结。
+
+下一篇: [CORS进阶之Preflight请求(二)](https://github.com/yinsigan/cors-book/blob/master/cors-jin-jie-zhi-preflight-qing-qiu-er.md)

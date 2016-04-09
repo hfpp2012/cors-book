@@ -1,3 +1,5 @@
+### CORS进阶之Preflight请求(二)
+
 #### 1. Access-Control-Allow-Origin
 
 上一篇[从跨域到CORS(一)](http://www.rails365.net/articles/cong-kua-yu-dao-cors-yi)文章有说过CORS的基本使用，也实现了跨域的请求。本篇来讲讲CORS更高阶的用法。
@@ -121,4 +123,6 @@ return 204;
 
 下一篇: [CORS进阶之设置请求头信息(三)](http://www.rails365.net/articles/cors-jin-jie-zhi-she-zhi-qing-qiu-tou-xin-xi-san)
 
-完结。
+本篇完结。
+
+下一篇: [CORS进阶之设置请求头信息(三)](https://github.com/yinsigan/cors-book/blob/master/cors-jin-jie-zhi-she-zhi-qing-qiu-tou-xin-xi-san.md)

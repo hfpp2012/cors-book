@@ -1,6 +1,6 @@
 # cors-book
 
-Cross-Origin Resource Sharing zh book
+Cross-Origin Resource Sharing zh little book
 
 原文链接: http://www.rails365.net
 

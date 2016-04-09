@@ -1,4 +1,6 @@
-#### 1. Set-Cookie
+### CORS进阶之cookie处理(四)
+
+#### 1. Set-Cookie
 
 在这一篇文章[CORS进阶之设置请求头信息(三)](http://www.rails365.net/articles/cors-jin-jie-zhi-she-zhi-qing-qiu-tou-xin-xi-san)中，可以使用CORS来设置自定义的请求头部信息，然而为了安全，默认情况下，浏览器的cookie也是不能作为信息传递给跨域的服务器的。
 
@@ -92,5 +94,6 @@ echo "name = $cookie_name";
 
 果然，服务器上是能获得cookie的信息的。
 
-完结。
+本篇完结。
 
+下一篇: [CORS进阶之Expose-Headers(五)](https://github.com/yinsigan/cors-book/blob/master/cors-jin-jie-expose-headers-wu.md)
