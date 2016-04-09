@@ -55,4 +55,6 @@ add_header 'Access-Control-Allow-Headers' 'Sample-Source';
 add_header 'Access-Control-Allow-Headers' 'DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Sample-Source';
 ```
 
-完结。
+本篇完结。
+
+下一篇: [CORS进阶之cookie处理(四)](https://github.com/yinsigan/cors-book/blob/master/cors-jin-jie-zhi-cookie-chu-li-si.md)
