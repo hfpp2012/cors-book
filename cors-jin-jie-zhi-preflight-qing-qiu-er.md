@@ -121,8 +121,6 @@ return 204;
 
 `Access-Control-Max-Age`可以设置请求的过期时间，单位是秒(second)。另外，返回204的状态码，是返回一个空内容的返回，毕竟，Preflight请求只需要响应的头部信息(Access-Control-Allow-Methods)，并不需要响应内容的。
 
-下一篇: [CORS进阶之设置请求头信息(三)](http://www.rails365.net/articles/cors-jin-jie-zhi-she-zhi-qing-qiu-tou-xin-xi-san)
-
 本篇完结。
 
 下一篇: [CORS进阶之设置请求头信息(三)](https://github.com/yinsigan/cors-book/blob/master/cors-jin-jie-zhi-she-zhi-qing-qiu-tou-xin-xi-san.md)
